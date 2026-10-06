@@ -2,7 +2,7 @@
 
 Một tiện ích mở rộng nhẹ dành cho trình duyệt, hỗ trợ tối ưu hóa quá trình đọc và xuất tài liệu từ Scribd sang định dạng PDF.
 
-## 📖 Giới thiệu
+##  Giới thiệu
 
 Scribd Extension được phát triển nhằm đơn giản hóa quá trình chuẩn bị tài liệu Scribd để in hoặc lưu dưới dạng PDF.
 
@@ -10,7 +10,7 @@ Extension cung cấp giao diện đơn giản với quy trình gồm hai bước
 
 Công cụ cũng hỗ trợ tự động cuộn trang để tải các nội dung Lazy Loading trước khi mở hộp thoại in, giúp hạn chế tình trạng thiếu trang hoặc trang trắng trong file PDF.
 
-## ✨ Tính năng chính
+##  Tính năng chính
 
 ### 1. Mở bản Embed
 
@@ -33,7 +33,7 @@ Tính năng chính hỗ trợ chuẩn bị tài liệu trước khi xuất PDF:
 
 ---
 
-## ⚠️ Lưu ý
+##  Lưu ý
 
 Để quá trình tải PDF hoạt động ổn định, người dùng nên đảm bảo tài liệu đã được tải đầy đủ trước khi thực hiện.
 
@@ -64,7 +64,7 @@ Do đây là công cụ phát triển cá nhân và chưa được đưa lên Ch
 
 Sau khi cài đặt thành công, biểu tượng extension sẽ xuất hiện trong danh sách tiện ích của trình duyệt.
 
-## 🚀 Cách sử dụng
+##  Cách sử dụng
 
 ### Bước 1 — Mở tài liệu
 
@@ -92,7 +92,7 @@ Sau khi cài đặt thành công, biểu tượng extension sẽ xuất hiện t
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Made by Quang Huy** ❤️
 
@@ -100,7 +100,7 @@ Sau khi cài đặt thành công, biểu tượng extension sẽ xuất hiện t
 
 
 ## MoMo Payment
-thị nguyện nếu muốn đô nết cho thí chủ 
+                                             thị nguyện tùy tâm nếu muốn đô nết cho thí chủ 
 <p align="center">
-  <img src="./pic/momo.jpg" width="300">
+  <img src="./pic/1791299769855_181505205043026853_4472347052853130033_b11e0ec05c3d2c5a65204d99ab96958e.jpg" width="300">
 </p>
