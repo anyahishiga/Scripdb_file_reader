@@ -95,3 +95,12 @@ Sau khi cài đặt thành công, biểu tượng extension sẽ xuất hiện t
 ## 👨‍💻 Author
 
 **Made by Quang Huy** ❤️
+
+
+
+
+## MoMo Payment
+thị nguyện nếu muốn đô nết cho thí chủ 
+<p align="center">
+  <img src="./pic/momo.jpg" width="300">
+</p>
